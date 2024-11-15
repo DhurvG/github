@@ -1,5 +1,5 @@
 # Hearty Bites
-
+...
 A full-stack recipe sharing and management application built with React, Node.js, Express, and MongoDB.
 
 ## Overview
